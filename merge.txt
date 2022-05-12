@@ -1,2 +1,6 @@
 text written in master branch
+<<<<<<< HEAD
 text written before merge
+=======
+text written in master branch
+>>>>>>> activity1
